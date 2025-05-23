@@ -1,7 +1,7 @@
 {
  "items": [
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2024/09/17 00:00 [JST]",
    "imageUrl": "",
@@ -13,7 +13,7 @@
    "sortOrder": "0"
   },
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2024/09/09 21:00 [JST]",
    "imageUrl": "",
@@ -25,7 +25,7 @@
    "sortOrder": "0"
   },
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2024/08/26 03:00 [JST]",
    "imageUrl": "",
@@ -37,7 +37,7 @@
    "sortOrder": "0"
   },
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2024/08/10 17:00 [JST]",
    "imageUrl": "",
@@ -49,7 +49,7 @@
    "sortOrder": "0"
   },
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2024/06/17 00:00 [JST]",
    "imageUrl": "",
@@ -61,7 +61,7 @@
    "sortOrder": "0"
   },
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2024/06/10 00:00 [JST]",
    "imageUrl": "",
@@ -73,7 +73,7 @@
    "sortOrder": "0"
   },
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2023/06/01 20:00 [JST]",
    "imageUrl": "",
@@ -85,7 +85,7 @@
    "sortOrder": "0"
   },
   {
-   "mark": "",
+   "mark": "410,420,425",
    "id": "0",
    "timeStamp": "2023/06/01 20:00 [JST]",
    "imageUrl": "",
@@ -93,6 +93,18 @@
    "titleEn": "RESONARK OST Vol.1",
    "contentJa": "2023/8/13 に東京ビッグサイトにて行われる\nコミックマーケット102 (C102) にて、\nRESONARK シリーズ初のサウンドトラックCDを頒布します。\n\nCDには、RESONARK 1作目 ~ 4作目から\n19曲程度を収録しております。\n\n■ 品名\nRESONARK Original Soundtrack Vol.1\n\n■ 頒布場所\nC102 2日目 (日曜) 西あ 15a\n\nイベント後、オンラインでの頒布も予定しております。\n公式Twitter (@resonark_x)もしくはBoothをご確認ください。\nhttps://septem47.booth.pm/\n\n引き続き、RESONARK 4とホノカをよろしくお願い致します。",
    "contentEn": "We will distribute the first soundtrack CD of RESONARK series at Comic Market 102 (C102) on August, 13th, 2023 at Tokyo Big Sight (Japan).\nThe CD will contain about 19 tracks from RESONARK series.\n\n* Product name\nRESONARK Original Soundtrack Vol.1\n\n* Distribution location\nC102, Day 2, 西あ 15a\n\nOnline distribution will be available after the event.\nPlease check RESONARK's official Twitter or sep-neko-ya Booth.\nhttps://septem47.booth.pm/",
+   "folderId": "0",
+   "sortOrder": "0"
+  },
+  {
+   "mark": "",
+   "id": "0",
+   "timeStamp": "20XX/XX/XX XX:XX [JST]",
+   "imageUrl": "",
+   "titleJa": "テストお知らせ",
+   "titleEn": "News Test",
+   "contentJa": "お知らせのテスト用テキストです。",
+   "contentEn": "This is the test text for the news.",
    "folderId": "0",
    "sortOrder": "0"
   }
